@@ -927,9 +927,27 @@ From these examples, it is clear that there is a general lack of synthesized and
 
 # 9. Threats <a name="Threats"></a>
 
-* **Barriers to Open Access adoption**:
+* **Lack of research and use of theory**
 
-  * Lack of research into personal determinants and environmental conditions of (not) publishing Open Access
+  * Most open science proponents are scientists themselves, not specialized in psychology, let alone the subdomain behavior change science. The consequence is that thinking about change is often not structured according to present theory and evidence about behavior change. A minimal solution could be consulting behavior change resources (e.g. https://effectivebehaviorchange.com); ideally, national funders fund qualitative and quantitative research to map the determinants of the relevant behaviors.
+
+  * Lack of research into personal determinants and environmental conditions that determine whether scholars and institutions:
+        
+        * Adopt Open Scholarship workflows
+        
+        * Preregister studies
+    
+        * Share data
+    
+        * Share materials, source code, and other products
+        
+        * Publish preprints
+  
+        * Publish Open Access
+        
+        * Publish OER
+
+* **Barriers to Open Access adoption**:
 
   * Lengthy embargo periods to protect publisher revenues;
 
@@ -957,8 +975,6 @@ From these examples, it is clear that there is a general lack of synthesized and
 
 
 * **Barriers to data sharing**:
-
-  * Lack of research into personal determinants and environmental conditions of (not) sharing data
 
   * Lack of skills and awareness of best practices;
 
